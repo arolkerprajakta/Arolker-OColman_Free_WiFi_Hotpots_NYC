@@ -5,7 +5,7 @@ This repository has been created as a part of an assignment for INFM600 course.
 
 * Github URL (subset):
 
-* Research Question:
+* Research Question: Does the current free hotspot coverage offer everyone in New York City free coverage within 1                    mile of their home?
 
 * License Information: 
 
