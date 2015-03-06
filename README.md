@@ -11,6 +11,6 @@ This repository has been created as a part of an assignment for INFM600 course.
 
 * Citation:
 
-* Wiki username: Parolker
+* Wiki username: Psarolker
 
-* Wiki URL:
+* Wiki URL: http://wiki.urbanhogfarm.com/index.php/Free_WiFi_Hotspots_NYC
