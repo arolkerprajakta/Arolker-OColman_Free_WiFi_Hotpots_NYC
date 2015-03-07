@@ -7,7 +7,7 @@ This repository has been created as a part of an assignment for INFM600 course.
 
 * Research Question: Does the current free hotspot coverage offer everyone in New York City free coverage within 1                    mile of their home?
 
-* License Information: 
+* License Information: This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
 * Citation:
 
