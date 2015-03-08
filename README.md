@@ -9,7 +9,7 @@ This repository has been created as a part of an assignment for INFM600 course.
 
 * License Information: This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
-* Citation:
+* Citation: Arolker, P. & O'Colman, R. (2015, March 5). Free Wi-Fi Hotspots throughout NYC.  Retrieved from https://github.com/praj24/INFM600-Info-Organiztion-Group-5
 
 * Wiki username: Psarolker
 
