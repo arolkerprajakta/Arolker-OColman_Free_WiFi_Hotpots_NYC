@@ -17,6 +17,10 @@ URL : https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/
 
 The dataset contains provider, location and names of free WiFi Hotspots reported in NYC.
 URL : https://github.com/praj24/Arolker-OColman_Free_WiFi_Hotpots_NYC/
+  
+  • Data Statistics:
+    - Size : 57.2 KB
+    - Number of records : 610
 
 ----------------------------------------------------------------------------------------
 • Research Question: 
@@ -37,7 +41,14 @@ Arolker, P. & O'Colman, R. (2015, March 5). Arolker-OColman_Free_WiFi_Hotpots_NY
 from https://github.com/praj24/Arolker-OColman_Free_WiFi_Hotpots_NYC/
 
 ----------------------------------------------------------------------------------------
-
 • Wiki username: Psarolker
 
 • Wiki URL: http://wiki.urbanhogfarm.com/index.php/Free_WiFi_Hotspots_NYC
+
+----------------------------------------------------------------------------------------
+• Files included: 
+  - NYC_Free_Public_WiFi_12052014.csv : Original dataset
+  - NYC_Free_Unlimited_Hotspots.csv : Subset of the dataset
+  - NYC_Free_Public_Wi-Fi_Documentation.docx : Contains additional information on WiFi 
+    providers listed in dataset. Source : https://data.cityofnewyork.us/api/views/a9we-mtpn/files/YJhi_kmduRdY7givQIycKCQ1LxK8Fuzvmk2U8d3tuTk?download=true&filename=NYC%20Free%20Public%20Wi-Fi.docx
+  
