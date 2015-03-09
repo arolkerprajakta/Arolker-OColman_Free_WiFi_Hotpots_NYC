@@ -37,7 +37,7 @@ License. (http://creativecommons.org/licenses/by-sa/4.0/)
 ----------------------------------------------------------------------------------------
 • Citation: 
 
-Arolker, P. & O'Colman, R. (2015, March 5). Arolker-OColman_Free_WiFi_Hotpots_NYC.Retrieved 
+Arolker, P. & O'Colman, R. (2015, March 5). Arolker-OColman_Free_WiFi_Hotpots_NYC. Retrieved 
 from https://github.com/praj24/Arolker-OColman_Free_WiFi_Hotpots_NYC/
 
 ----------------------------------------------------------------------------------------
